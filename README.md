@@ -1,4 +1,4 @@
-# Online Learning Stuff
+# 📓 Online Learning Stuff
 
 > This repository serves to aggregate some of the courses, coding challenges, and practice projects that I've completed over the course of my software development journey.
 
