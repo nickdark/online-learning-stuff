@@ -1,0 +1,30 @@
+Info 0    [11:38:55.057] Starting TS Server
+Info 1    [11:38:55.057] Version: 4.2.3
+Info 2    [11:38:55.057] Arguments: /home/nickdark/.config/nvm/14.16.0/bin/node /home/nickdark/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /home/nickdark/exercism/javascript/bank-account/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/aa0ff11c09668f904be68a55107f6a2f/tscancellation*
+Info 3    [11:38:55.057] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [11:38:55.057] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [11:38:55.074] Search path: /home/nickdark/exercism/javascript/bank-account
+Info 6    [11:38:55.075] For info: /home/nickdark/exercism/javascript/bank-account/bank-account.spec.js :: No config files found.
+Info 7    [11:38:55.079] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [11:38:57.239] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2159.698400005698ms
+Info 9    [11:38:57.239] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [11:38:57.239] 	Files (151)
+
+Info 11   [11:38:57.239] -----------------------------------------------
+Info 12   [11:38:58.226] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 13   [11:38:58.650] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 423.9270000010729ms
+Info 14   [11:38:58.650] Project '/dev/null/inferredProject1*' (Inferred)
+Info 15   [11:38:58.650] 	Files (237)
+
+Info 16   [11:38:58.650] -----------------------------------------------
+Info 17   [11:39:00.476] Before ensureProjectForOpenFiles:
+Info 18   [11:39:00.477] After ensureProjectForOpenFiles:
+Info 19   [11:39:00.477] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/bank-account/bank-account.spec.js
+Info 20   [11:46:45.158] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/bank-account/bank-account.js 1:: WatchInfo: /home/nickdark/exercism/javascript/bank-account/bank-account.js 500 undefined Project:  WatchType: Closed Script info
+Info 21   [11:46:45.158] Elapsed:: 0.33810000121593475ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/bank-account/bank-account.js 1:: WatchInfo: /home/nickdark/exercism/javascript/bank-account/bank-account.js 500 undefined Project:  WatchType: Closed Script info
+Info 22   [11:46:45.408] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 23   [11:46:45.475] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 66.97689999639988ms
+Info 24   [11:46:45.475] Different program with same set of files:: structureIsReused:: 2
+Info 25   [11:46:47.658] Before ensureProjectForOpenFiles:
+Info 26   [11:46:47.659] After ensureProjectForOpenFiles:
+Info 27   [11:46:47.659] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/bank-account/bank-account.spec.js

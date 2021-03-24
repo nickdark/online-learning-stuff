@@ -1,0 +1,122 @@
+Info 0    [08:37:23.251] Starting TS Server
+Info 1    [08:37:23.251] Version: 4.2.3
+Info 2    [08:37:23.251] Arguments: /home/nickdark/.config/nvm/14.16.0/bin/node /home/nickdark/.emacs.d/.local/etc/lsp/npm/typescript/bin/tsserver --logFile /home/nickdark/exercism/javascript/space-age/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/9de3a56bebae10d609f4d6617aa0540b/tscancellation*
+Info 3    [08:37:23.251] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [08:37:23.251] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [08:37:23.268] Search path: /home/nickdark/exercism/javascript/space-age
+Info 6    [08:37:23.269] For info: /home/nickdark/exercism/javascript/space-age/space-age.spec.js :: No config files found.
+Info 7    [08:37:23.273] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [08:37:26.206] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2932.8059000000358ms
+Info 9    [08:37:26.206] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [08:37:26.206] 	Files (151)
+
+Info 11   [08:37:26.206] -----------------------------------------------
+Info 12   [08:37:26.933] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 13   [08:37:27.418] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 484.20670000091195ms
+Info 14   [08:37:27.418] Project '/dev/null/inferredProject1*' (Inferred)
+Info 15   [08:37:27.418] 	Files (237)
+
+Info 16   [08:37:27.418] -----------------------------------------------
+Info 17   [08:37:29.184] Before ensureProjectForOpenFiles:
+Info 18   [08:37:29.184] After ensureProjectForOpenFiles:
+Info 19   [08:37:29.185] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 20   [13:53:48.802] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 21   [13:53:48.803] Elapsed:: 0.400799997150898ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 22   [13:53:49.053] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 23   [13:53:49.133] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 79.71890000253916ms
+Info 24   [13:53:49.133] Different program with same set of files:: structureIsReused:: 2
+Info 25   [13:53:51.302] Before ensureProjectForOpenFiles:
+Info 26   [13:53:51.302] After ensureProjectForOpenFiles:
+Info 27   [13:53:51.302] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 28   [13:53:51.724] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 29   [13:53:51.779] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 54.91829999908805ms
+Info 30   [13:53:51.779] Different program with same set of files:: structureIsReused:: 2
+Info 31   [13:53:52.558] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 32   [13:53:52.603] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 45.19319999963045ms
+Info 33   [13:53:52.603] Different program with same set of files:: structureIsReused:: 2
+Info 34   [13:53:53.377] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 35   [13:53:53.418] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 40.868000000715256ms
+Info 36   [13:53:53.418] Different program with same set of files:: structureIsReused:: 2
+Info 37   [13:53:54.128] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 38   [13:53:54.159] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 30.646099999547005ms
+Info 39   [13:53:54.159] Different program with same set of files:: structureIsReused:: 2
+Info 40   [13:53:54.902] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 41   [13:53:54.944] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 41.72560000047088ms
+Info 42   [13:53:54.944] Different program with same set of files:: structureIsReused:: 2
+Info 43   [13:53:55.612] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 44   [13:53:55.650] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 38.15769999846816ms
+Info 45   [13:53:55.650] Different program with same set of files:: structureIsReused:: 2
+Info 46   [13:53:56.379] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [13:53:56.422] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 42.946299999952316ms
+Info 48   [13:53:56.422] Different program with same set of files:: structureIsReused:: 2
+Info 49   [13:53:56.891] Format host information updated
+Info 50   [13:58:21.343] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 51   [13:58:21.343] Elapsed:: 0.07660000026226044ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 52   [13:58:21.593] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 53   [13:58:21.657] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 64.04069999977946ms
+Info 54   [13:58:21.657] Different program with same set of files:: structureIsReused:: 2
+Info 55   [13:58:23.843] Before ensureProjectForOpenFiles:
+Info 56   [13:58:23.843] After ensureProjectForOpenFiles:
+Info 57   [13:58:23.843] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 58   [14:03:03.898] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 59   [14:03:03.898] Elapsed:: 0.11919999867677689ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 60   [14:03:04.148] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 61   [14:03:04.207] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 59.054900001734495ms
+Info 62   [14:03:04.207] Different program with same set of files:: structureIsReused:: 2
+Info 63   [14:03:06.398] Before ensureProjectForOpenFiles:
+Info 64   [14:03:06.398] After ensureProjectForOpenFiles:
+Info 65   [14:03:06.399] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 66   [14:03:33.905] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 67   [14:03:33.905] Elapsed:: 0.10270000249147415ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 68   [14:03:34.155] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 69   [14:03:34.233] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 78.00619999691844ms
+Info 70   [14:03:34.233] Different program with same set of files:: structureIsReused:: 2
+Info 71   [14:03:36.405] Before ensureProjectForOpenFiles:
+Info 72   [14:03:36.406] After ensureProjectForOpenFiles:
+Info 73   [14:03:36.406] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 74   [14:05:43.914] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 75   [14:05:43.915] Elapsed:: 0.11710000038146973ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 76   [14:05:44.165] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 77   [14:05:44.216] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 50.27009999752045ms
+Info 78   [14:05:44.216] Different program with same set of files:: structureIsReused:: 2
+Info 79   [14:05:46.415] Before ensureProjectForOpenFiles:
+Info 80   [14:05:46.415] After ensureProjectForOpenFiles:
+Info 81   [14:05:46.415] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 82   [14:08:56.449] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 83   [14:08:56.449] Elapsed:: 0.12240000069141388ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 84   [14:08:56.700] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 85   [14:08:56.760] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 60.24540000036359ms
+Info 86   [14:08:56.760] Different program with same set of files:: structureIsReused:: 2
+Info 87   [14:08:58.950] Before ensureProjectForOpenFiles:
+Info 88   [14:08:58.950] After ensureProjectForOpenFiles:
+Info 89   [14:08:58.950] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 90   [14:09:46.465] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 91   [14:09:46.465] Elapsed:: 0.07229999825358391ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 92   [14:09:46.716] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 93   [14:09:46.784] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 67.99309999868274ms
+Info 94   [14:09:46.784] Different program with same set of files:: structureIsReused:: 2
+Info 95   [14:09:48.965] Before ensureProjectForOpenFiles:
+Info 96   [14:09:48.966] After ensureProjectForOpenFiles:
+Info 97   [14:09:48.966] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 98   [14:13:06.506] FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 99   [14:13:06.507] Elapsed:: 0.2013000026345253ms FileWatcher:: Triggered with /home/nickdark/exercism/javascript/space-age/space-age.js 1:: WatchInfo: /home/nickdark/exercism/javascript/space-age/space-age.js 500 undefined Project:  WatchType: Closed Script info
+Info 100  [14:13:06.757] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 101  [14:13:06.819] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 61.27809999883175ms
+Info 102  [14:13:06.819] Different program with same set of files:: structureIsReused:: 2
+Info 103  [14:13:09.007] Before ensureProjectForOpenFiles:
+Info 104  [14:13:09.007] After ensureProjectForOpenFiles:
+Info 105  [14:13:09.007] got projects updated in background, updating diagnostics for /home/nickdark/exercism/javascript/space-age/space-age.spec.js
+Info 106  [11:38:57.157] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/README.md :: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 107  [11:38:57.165] Elapsed:: 5.744499996304512ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/README.md :: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 108  [11:38:58.189] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/index.json 0:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 109  [11:38:58.191] Elapsed:: 2.720800004899502ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/index.json 0:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 110  [11:38:58.191] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/package.json 1:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 111  [11:38:58.193] Elapsed:: 0.09569999575614929ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/package.json 1:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 112  [11:38:58.193] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/types-registry 2:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 113  [11:38:58.193] Elapsed:: 0.01770000159740448ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/types-registry 2:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 114  [11:38:58.193] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/types-registry 3:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 115  [11:38:58.193] Elapsed:: 0.011500000953674316ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry/types-registry 3:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 116  [11:38:58.193] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry 4:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 117  [11:38:58.193] Elapsed:: 0.06220000237226486ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry 4:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 118  [11:38:58.193] DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry 5:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 119  [11:38:58.193] Elapsed:: 0.028400003910064697ms DirectoryWatcher:: Triggered with /home/nickdark/.cache/typescript/4.2/node_modules/types-registry 5:: WatchInfo: /home/nickdark/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
