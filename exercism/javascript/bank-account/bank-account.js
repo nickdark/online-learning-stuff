@@ -5,27 +5,41 @@
 
 export class BankAccount {
   constructor() {
-    this.balance = 0;
-    this.open = false;
+    this.account = 0;
+    this.isOpen = false;
   }
 
   open() {
-    this.open = true;
+    if (!this.isOpen) {
+      this.isOpen = true;
+      this.account = 0;
+    }
+    else {
+      throw new ValueError();
+    }
   }
 
   close() {
-    this.open = false;
+    if (this.isOpen) {
+      this.isOpen = false;
+    }
+    else {
+      throw new ValueError();
+    }
   }
 
   deposit(quantity) {
-    if (this.open) {
-      this.balance += quantity;
+    if (this.isOpen && quantity > 0) {
+      this.account += quantity;
+    }
+    else {
+      throw new ValueError();
     }
   }
 
   withdraw(quantity) {
-    if (this.open && this.balance - quantity >= 0) {
-      this.balance -= quantity;
+    if (this.isOpen && this.account - quantity >= 0 && quantity > 0) {
+      this.account -= quantity;
     }
     else {
       throw new ValueError();
@@ -33,7 +47,15 @@ export class BankAccount {
   }
 
   get balance() {
-    return this.balance;
+    if (this.isOpen) {
+      return this.account;
+    }
+    else {
+      throw new ValueError();
+    }
+  }
+
+  set balance() {
   }
 }
 
