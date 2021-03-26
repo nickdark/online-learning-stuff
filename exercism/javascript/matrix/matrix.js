@@ -4,15 +4,29 @@
 //
 
 export class Matrix {
-  constructor() {
-    throw new Error('Remove this statement and implement this function');
+  constructor(string) {
+    this.rows = string.split('\n').map((x) => { return x.split(' ').map((x) => { return parseInt(x) }) });
+    this.columns = [];
   }
 
-  get rows() {
-    throw new Error('Remove this statement and implement this function');
-  }
+  // get rows() {
+  //   return this.rows;
+  // }
+
 
   get columns() {
-    throw new Error('Remove this statement and implement this function');
+    let col = new Array(this.rows[0].length).fill().map(() => []);
+    this.rows.map((row) => {
+      row.map((number, columnIndex) => {
+        col[columnIndex].push(number);
+      })
+    })
+    return col;
   }
+
+  set columns(_array) { }
 }
+
+// let newMatrix = new Matrix('1 2\n3 4');
+// console.log(newMatrix.rows);
+// console.log(newMatrix.columns);
