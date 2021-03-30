@@ -1,6 +1,6 @@
 # 📓 Online Learning Stuff
 
-> This repository serves to aggregate some of the courses, coding challenges, and practice projects that I've completed over the course of my software development journey.
+> This repository serves as a miscellanea of courses, coding challenges, and practice projects that I've completed soley for learning purposes.
 
 ## Courses:
 
